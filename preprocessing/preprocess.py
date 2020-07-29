@@ -1,3 +1,5 @@
+#The preprocessing steps
+
 from nipype.interfaces.ants.segmentation import N4BiasFieldCorrection
 from dipy.segment.tissue import TissueClassifierHMRF
 from __future__ import print_function
