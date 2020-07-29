@@ -1,0 +1,47 @@
+[33mcommit e00fde258f84bec12d70f4160fb1d331b7ed30cc[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Linta Oommen <lintaoommen@localhost.localdomain>
+Date:   Wed Jul 29 21:01:36 2020 +0530
+
+    push preprocess
+
+[33mcommit e08e35fc6fd43778694ca32011f6fa2027643c0f[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Lintaoommen <36642463+Lintaoommen@users.noreply.github.com>
+Date:   Wed Jul 29 20:52:30 2020 +0530
+
+    Delete preprocess.py
+
+[33mcommit 00783b4b36a7baab253644add570e808f2e16211[m
+Author: Lintaoommen <36642463+Lintaoommen@users.noreply.github.com>
+Date:   Wed Jul 29 20:50:48 2020 +0530
+
+    Update README.md
+
+[33mcommit c7cb2f563466e29556ece09ba401d564486e7db8[m
+Author: Lintaoommen <36642463+Lintaoommen@users.noreply.github.com>
+Date:   Wed Jul 29 20:46:01 2020 +0530
+
+    Update description.md
+
+[33mcommit 4665add085fde384e687d7b9ea5e6a40b573cfa4[m
+Author: Lintaoommen <36642463+Lintaoommen@users.noreply.github.com>
+Date:   Wed Jul 29 20:44:55 2020 +0530
+
+    Update README.md
+
+[33mcommit d64cbd48e359a5ec8c79a72f4fb72460f951ce39[m
+Author: Lintaoommen <36642463+Lintaoommen@users.noreply.github.com>
+Date:   Wed Jul 29 20:11:25 2020 +0530
+
+    Update description.md
+
+[33mcommit 913ed210c03ca62ce1775d36c5227442f6562f71[m
+Author: Lintaoommen <36642463+Lintaoommen@users.noreply.github.com>
+Date:   Wed Jul 29 20:06:39 2020 +0530
+
+    Create .gitignore
+
+[33mcommit f4f38a4dfab277a05b8e4d68c4b40c215fd757f6[m
+Author: Linta Oommen <lintaoommen@localhost.localdomain>
+Date:   Wed Jul 29 19:45:52 2020 +0530
+
+    commit preprocess.py
