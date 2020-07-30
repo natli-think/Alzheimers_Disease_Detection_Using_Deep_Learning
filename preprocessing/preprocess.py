@@ -138,8 +138,6 @@ class Preprocess:
     Choose the slice (between 0 and 182 or 218)
     
     """
-    
-
     image_1 = nib.load(src_path).get_data()
     plt.figure(figsize=(20, 5))
     print('Shape of the MRI : {}'.format(image_1.shape))
