@@ -16,3 +16,7 @@ ADNI is an ongoing, multicenter cohort study, started from 2004. It focuses on u
 
 ### **Image preprocessing**
 The images are preprocessed in order to produce the dataset and more detailed information can be found here ([here](https://github.com/Lintaoommen/Alzheimers_Disease_Detection_Using_Deep_Learning/blob/master/preprocessing/description.md))
+
+## Approaches used
+![Fig 1 - Single Classifier](https://github.com/Lintaoommen/Alzheimers_Disease_Detection_Using_Deep_Learning/blob/master/Images/Single_CLassifier_Flowchart.png)
+
