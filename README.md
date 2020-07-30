@@ -18,9 +18,12 @@ ADNI is an ongoing, multicenter cohort study, started from 2004. It focuses on u
 The images are preprocessed in order to produce the dataset and more detailed information can be found here ([here](https://github.com/Lintaoommen/Alzheimers_Disease_Detection_Using_Deep_Learning/blob/master/preprocessing/description.md))
 
 ## Approaches used
+### ** 1] Single Classifier**
 ![Fig 1 - Single Classifier](https://github.com/Lintaoommen/Alzheimers_Disease_Detection_Using_Deep_Learning/blob/master/Images/Single_CLassifier_Flowchart.png)
 
 The above figure shows the architecture for single classifer. Initially, the dataset is in 3D format(Nifti extension). The dataset is preprocessed to produce a 2D Image dataset wherein three folders are present- AD,CN, MCI. Each class has three kinds of data, ie, Axial, Coronnal and Saggital. In this manner, a single dataset is produced which is then fed into a Simple CNN Architecture. It was observed that the trained model achieved an accuracy of 86%. One method to improve the accuracy is to not mix up different kinds of data within a class as it makes the problem more complex. 
+
+### **2] Combined Classifier**
 
 ![Fig 2 - Combined_Classifer ](https://github.com/Lintaoommen/Alzheimers_Disease_Detection_Using_Deep_Learning/blob/master/Images/Multiple_Classifer_Architecture.png)
 
