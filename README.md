@@ -20,3 +20,4 @@ The images are preprocessed in order to produce the dataset and more detailed in
 ## Approaches used
 ![Fig 1 - Single Classifier](https://github.com/Lintaoommen/Alzheimers_Disease_Detection_Using_Deep_Learning/blob/master/Images/Single_CLassifier_Flowchart.png)
 
+![Fig-2](https://github.com/Lintaoommen/Alzheimers_Disease_Detection_Using_Deep_Learning/blob/master/Images/Multiple_Classifer_Architecture.png)
