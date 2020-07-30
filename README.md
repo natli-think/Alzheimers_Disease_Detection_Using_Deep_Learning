@@ -28,3 +28,8 @@ The above figure shows the architecture for single classifer. Initially, the dat
 ![Fig 2 - Combined_Classifer ](https://github.com/Lintaoommen/Alzheimers_Disease_Detection_Using_Deep_Learning/blob/master/Images/Multiple_Classifer_Architecture.png)
 
 The above figure shows the architecture for multiple classifier. Here, the method is similar to the previous approach till the pre-processing phase.Once the dataset is produced, it is divided into three datasets so that each dataset consist of only one kind of data. In this manner, the complexity of the problem is reduced. Each of the dataset is fed into three seperate classifiers - Axial, Coronnal, Saggital(each of which is a Simple CNN Architecture).It was observed that the individual classifiers were able to acquire an accuracy of 94% each. Once the training is completed, the models are combined to give the final output.   
+
+## Google Colab Notebooks
+1] ([Data_preprocessing.ipynb](https://github.com/Lintaoommen/Alzheimers_Disease_Detection_Using_Deep_Learning/blob/master/Jupyter_Notebooks/Data_preprocessing.ipynb)) is used to preprocess the ADNI Dataset. In this notebook, the packages for the same are mentioned.The user needs to only run ([this](will mention)) file.
+
+2] ([Data_augmentation.ipynb](https://github.com/Lintaoommen/Alzheimers_Disease_Detection_Using_Deep_Learning/blob/master/Jupyter_Notebooks/Data_Augmentation.ipynb)) is used to augment the preprocessed dataset. More information is available within the notebook.
