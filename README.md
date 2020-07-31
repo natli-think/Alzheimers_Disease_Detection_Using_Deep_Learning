@@ -14,7 +14,7 @@ In this project, we have obtained the brain MRI Images from **ADNI** website ([h
 
 ADNI is an ongoing, multicenter cohort study, started from 2004. It focuses on understanding the diagnostic and predictive value of Alzheimers disease specific biomarkers. Our dataset included the data of 1,500 patients which resulted in a total of 1,80,000 images after augmentation.
 
-**Image preprocessing**
+###Image preprocessing
 The images are preprocessed to produce the dataset and more detailed information can be found here ([here](https://github.com/Lintaoommen/Alzheimers_Disease_Detection_Using_Deep_Learning/blob/master/preprocessing/description.md))
 
 ## Approaches used
