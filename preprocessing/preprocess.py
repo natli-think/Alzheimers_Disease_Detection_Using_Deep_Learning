@@ -25,6 +25,13 @@ class Preprocess:
     
   '''
 
+  def __init__(self):
+    '''
+     This is is constructor for Preprocess class  
+    '''
+    
+    print('Start preprocessing....')
+
   def strip_the_skull(self,src_path,dst_path):
     """
     
@@ -79,7 +86,6 @@ class Preprocess:
     corrected_img => N4 Bias Field correction is run and returned back to destination using WriteImage inbuilt function.
     
     """
-
     try:
       inputImage = sitk.ReadImage(src_path)
       img_data=sitk.Cast(inputImage,sitk.sitkFloat32) 
