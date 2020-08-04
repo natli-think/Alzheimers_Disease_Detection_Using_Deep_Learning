@@ -33,3 +33,5 @@ The above figure shows the architecture for multiple classifier. Here, the metho
 1] [Data_preprocessing.ipynb](https://github.com/Lintaoommen/Alzheimers_Disease_Detection_Using_Deep_Learning/blob/master/Jupyter_Notebooks/Data_preprocessing.ipynb) is used to preprocess the ADNI Dataset. In this notebook, the packages for the same are mentioned.The user needs to only run [this](https://github.com/Lintaoommen/Alzheimers_Disease_Detection_Using_Deep_Learning/blob/master/preprocessing/run_me.py) file in notebook.
 
 2] [Data_augmentation.ipynb](https://github.com/Lintaoommen/Alzheimers_Disease_Detection_Using_Deep_Learning/blob/master/Jupyter_Notebooks/Data_Augmentation.ipynb) is used to augment the preprocessed dataset. More information is available within the notebook.
+
+3] [Training_Single_Classifier.ipynb](https://github.com/Lintaoommen/Alzheimers_Disease_Detection_Using_Deep_Learning/blob/master/Jupyter_Notebooks/Training_Single_Classifier.ipynb)contains the details of training a simple CNN classifier with the preprocessed and augmented ADNI dataset.
