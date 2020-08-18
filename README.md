@@ -36,4 +36,4 @@ The above figure shows the architecture for multiple classifier. Here, the metho
 
 3] [Training_Single_Classifier.ipynb](https://github.com/Lintaoommen/Alzheimers_Disease_Detection_Using_Deep_Learning/blob/master/Jupyter_Notebooks/Training_Single_Classifier.ipynb) contains the details of training a simple CNN classifier with the preprocessed and augmented ADNI dataset.
 
-4] [Training_Multiple_Classifier.ipynb](https://github.com/Lintaoommen/Alzheimers_Disease_Detection_Using_Deep_Learning/blob/master/Jupyter_Notebooks/Training_Multiple_CLassifier.ipynb) contains the details of training three CNN classifiers with the splitted,preprocessed and augmented ADNI dataset.
+4] [Training_Multiple_Classifier.ipynb](https://github.com/Lintaoommen/Alzheimers_Disease_Detection_Using_Deep_Learning/blob/master/Jupyter_Notebooks/Training_Multiple_CLassifier.ipynb) contains the details of training three CNN classifiers with the splitted, preprocessed and augmented ADNI dataset.
