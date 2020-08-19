@@ -39,7 +39,7 @@ The above figure shows the architecture for multiple classifier. Here, the metho
 4] [Training_Multiple_Classifier.ipynb](https://github.com/Lintaoommen/Alzheimers_Disease_Detection_Using_Deep_Learning/blob/master/Jupyter_Notebooks/Training_Multiple_CLassifier.ipynb) contains the details of training three CNN classifiers with the splitted, preprocessed and augmented ADNI dataset.
 
 ## Result
-### Graphs
+#### Graphs
 During the initial phase of project, a small dataset was used which had 33,000 images and 10 tweaks were made in each model such as adding a dropout layer of 0.4, adding a dense layer of 512 neurons,etc to analyse the performance. In each of the tweak made, the best training accuracy, validation accuracy and loss was noted.This same process was repeated for each model while gradually increasing the data size and all these informations were consolidated into an [Excel Sheet](https://github.com/Lintaoommen/Alzheimers_Disease_Detection_Using_Deep_Learning/tree/master/Graphs/Excel_Sheet). 
 
 Out of the ten tweaks made, it was observed that the validation accuracy was highest in the case of adding a dropout layer of 0.4 or adding a dense layer of 512 neurons along with a dropout of 0.3 or 0.4.
