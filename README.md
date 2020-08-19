@@ -49,12 +49,17 @@ In order to get a better understanding, six tweaks made in each model has been p
 #### 1] Combined Classifier
 ![Fig 3 - Combined_Classifier_Graph](https://github.com/Lintaoommen/Alzheimers_Disease_Detection_Using_Deep_Learning/blob/master/Graphs/Combined_Classifier_Graph.png)
 
-In the above graph, it can be observed that with the initial dataset, the accuaracy in every tweak remains within the range of 0.6-0.7 but when datasize is increased to 60k images, a sharp increase can be seen in the accuracy of every tweak. From the graph it can be concluded that, comparatively, the model with a dense layer of 1024 neurons has least performance while a dropout layer of 0.4 seems to be most effective in this case as it reaches to an accuracy of 0.86. 
+Here it can be observed that with the initial dataset, the accuaracy in every tweak remains within the range of 0.6-0.7 but when datasize is increased to 60k images, a sharp increase can be seen in the accuracy of every tweak. From the graph it can be concluded that, comparatively, the model with a dense layer of 1024 neurons has least performance while a dropout layer of 0.4 seems to be most effective in this case as it reaches to an accuracy of 0.86. 
 
 #### 2] Axial Classifier
 ![Fig 4 - Axial_Classifier_Graph](https://github.com/Lintaoommen/Alzheimers_Disease_Detection_Using_Deep_Learning/blob/master/Graphs/Axial_Classifier_Graph.png)
 
 In the above graph, the tweaks doesn't have a linear steady increase as there are many intersections between the lines. Initially, the tweaks have an accuracy in the range of 0.8-0.9 which is not the case of the model with a dense layer of 512 neurons but with the gradual increase in data size, it can be seen that the accuracy of every tweak increases and the best performance can be seen in the model with a dropout layer of 0.4.   
+
+#### 3] Coronnal Classifier
+![Fig 5 - Coronnal_Classifier_Graph](https://github.com/Lintaoommen/Alzheimers_Disease_Detection_Using_Deep_Learning/blob/master/Graphs/Coronnal_Classifier_Graph.png)
+
+In this graph, initially every tweak has an accuracy in the range of 0.7-0.8 and the best performance can be observed in the models with the tweak of a dropout layer of 0.4 and a dense layer of 512 neurons along with a dropout layer of 0.4. Here it can also be observed that the model with a dense layer of 512 neurons have a performance similar to the model with a dense layer of 1024 neurons. In this graph, comparatively, the model with a dense layer of 512 neurons has the least performance which has an accuracy at 0.83
 
 #### Scope
 Currently, the model achieves as accuracy of 95% and some optimizations has already been performed such as:<br>
