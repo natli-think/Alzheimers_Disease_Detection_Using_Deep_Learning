@@ -47,8 +47,8 @@ Out of the ten tweaks made, it was observed that the validation accuracy was hig
 In order to get a better understanding, six tweaks made in each model has been plotted against the datasize for each model which can be found inside the graphs folder. 
 
 ### Scope
-Currently, the model achieves as accuracy of 95% and some optimizations has already been performed such as:
-1] Pipelined the preprocessing functions.
+Currently, the model achieves as accuracy of 95% and some optimizations has already been performed such as:<br>
+1] Pipelined the preprocessing functions.<br>
 2] Reduced the first epoch training time by loading the dataset as zip file and not loading it from Gdrive via mounting.
 
 #### Changes that can be made 
