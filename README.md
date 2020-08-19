@@ -44,7 +44,12 @@ During the initial phase of project, a small dataset was used which had 33,000 i
 
 Out of the ten tweaks made, it was observed that the validation accuracy was highest in the case of adding a dropout layer of 0.4 or adding a dense layer of 512 neurons along with a dropout of 0.3 or 0.4.
 
-In order to get a better understanding, six tweaks made in each model has been plotted against the datasize for each model which can be found inside the [Graphs folder](https://github.com/Lintaoommen/Alzheimers_Disease_Detection_Using_Deep_Learning/tree/master/Graphs). 
+In order to get a better understanding, six tweaks made in each model has been plotted against the datasize for each model and they are as follows :
+
+#### 1] Combined Classifier
+![Fig 3 - Combined_Classifier_Graph](https://github.com/Lintaoommen/Alzheimers_Disease_Detection_Using_Deep_Learning/blob/master/Graphs/Combined_Classifier_Graph.png)
+
+In the above graph, it can be observed that with the initial dataset, the accuaracy in every tweak remains within the range of 0.6-0.7 but when datasize is increased to 60k images, a sharp increase can be seen in the accuracy of every tweak. From the graph it can be concluded that, comparatively, the model with a dense layer of 1024 neurons has least performance while a dropout layer of 0.4 seems to be most effective in this case. 
 
 #### Scope
 Currently, the model achieves as accuracy of 95% and some optimizations has already been performed such as:<br>
