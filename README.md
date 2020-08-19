@@ -46,12 +46,12 @@ Out of the ten tweaks made, it was observed that the validation accuracy was hig
 
 In order to get a better understanding, six tweaks made in each model has been plotted against the datasize for each model which can be found inside the graphs folder. 
 
-### Scope
+#### Scope
 Currently, the model achieves as accuracy of 95% and some optimizations has already been performed such as:<br>
 1] Pipelined the preprocessing functions.<br>
 2] Reduced the first epoch training time by loading the dataset as zip file and not loading it from Gdrive via mounting.
 
-#### Changes that can be made 
+##### Changes that can be made 
 Now, the process of segmentation takes a lot of time to execute and it is quite time consuming. This problem can be solved by using more advanced methods such as [MONAI](https://monai.io/)
 
 
