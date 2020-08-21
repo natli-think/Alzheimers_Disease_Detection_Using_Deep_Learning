@@ -81,7 +81,7 @@ During the initial phase of our project, we tried to use the concept of transfer
 Currently, the model achieves as accuracy of 95% and some optimizations has already been performed such as:<br>
 1] Pipelined the preprocessing functions.<br>
 2] Reduced the first epoch training time by loading the dataset as zip file and not loading it from Gdrive via mounting.
-3] Split the dataset using validation split parameter of Image DataGenerator instead of using a code that manually moves images from one folder to another.
+3] Split the dataset using validation split parameter of Image DataGenerator instead of using a code that manually move images from one folder to another.
 
 ##### Changes that can be made 
 Now, the process of segmentation takes a lot of time to execute and it is quite time consuming. This problem can be solved by using more advanced methods such as [MONAI](https://monai.io/).
