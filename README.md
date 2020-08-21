@@ -80,4 +80,4 @@ This project is the result of the combined effort of each individual in my team 
 
 Finally, and above all, I would like to thank our mentor **[Sleeba Paul](https://sleebapaul.github.io/)** whose been always there as a great pillar and never stepped away from helping us out whenever needed. If not for him, this project wouldn't have made this far and we do owe him a lot! :)<br>
 <br>
-Thank you Sleeba Paul!!   
+Thank you Sleeba Paul !!   
