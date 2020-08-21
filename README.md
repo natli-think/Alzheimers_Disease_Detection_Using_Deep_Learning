@@ -66,7 +66,7 @@ In this graph, initially every tweak has an accuracy in the range of 0.7-0.8 and
 
 Here, it can be observed that the tweaks doesn't have a lineaar steady increase and initially every tweak has an accuracy in the range of 0.80-0.85.It can also be observed that towards the end, every tweak achieves an accuracy in the range of 0.90-0.94 and the best performance can be observed in the model with a dense layer of 512 neurons along with a dropout layer of 0.4
 
-### Challenges faced
+## Challenges faced
 Some of the problems that we ran into are as follows :
 #### 1] Handling the data size
 The data initially in 3D format was humongous to handle as 20 3D images itself add upto a size of 1 GB. So, this was solved by applying the preprocess pipeline on each input image and then deleting it and going for the next input.
@@ -77,8 +77,7 @@ Finding the right model was quite tricky and the data being complex, we tried fi
 #### 3] Using the concept of transfer learning
 During the initial phase of our project, we tried to use the concept of transfer learning with MobileNet but the problem with this is that MobileNet is pretrained with RGB Images and Medical Images are always in grayscale format. This was a major turning point for the project as it helped us to understand that we need to train a model from scratch and transfer learning can't be used.
 
-
-### Scope
+## Scope
 Currently, the model achieves as accuracy of 95% and some optimizations has already been performed such as:<br>
 1] Pipelined the preprocessing functions.<br>
 2] Reduced the first epoch training time by loading the dataset as zip file and not loading it from Gdrive via mounting.
