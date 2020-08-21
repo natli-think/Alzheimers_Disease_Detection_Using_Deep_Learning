@@ -84,7 +84,7 @@ Currently, the model achieves as accuracy of 95% and some optimizations has alre
 3] Split the dataset using validation split parameter of Image DataGenerator instead of using a code that manually move images from one folder to another.
 
 ##### Changes that can be made 
-1] Now, the process of segmentation takes a lot of time to execute and it is quite time consuming. This problem can be solved by using more advanced methods such as [MONAI](https://monai.io/).
+1] Now, the process of segmentation takes a lot of time to execute and it is quite time consuming. This problem can be solved by using more advanced methods such as [MONAI](https://monai.io/).<br>
 2] Here, we have only taken grey matter, white matter and CSF (Cerebro spinal fluid) into consideration to detect AD. You can use other feautures such as Medial temperal lobe, etc too.
 
 ## Acknowledgement
