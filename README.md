@@ -78,4 +78,4 @@ Now, the process of segmentation takes a lot of time to execute and it is quite 
 ## Acknowledgement
 This project is the result of the combined effort of each individual in my team and I would like to thank my team members [Silpa Chandran](https://www.linkedin.com/in/silpa-chandran-747a78182/), [Vidhya L Prathapan](https://www.linkedin.com/in/vidhya-l-prathapan-28282a180/) & [Krishnapriya P](https://www.linkedin.com/in/manschaftg-ap-ab78351b2/) for making it past all the challenges and let this happen.
 
-Finally, and above all, I would like to thank our **mentor [Sleeba Paul](https://sleebapaul.github.io/)**
+Finally, and above all, I would like to thank our mentor **[Sleeba Paul](https://sleebapaul.github.io/)**
