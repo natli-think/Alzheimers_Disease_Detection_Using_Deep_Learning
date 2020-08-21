@@ -75,4 +75,7 @@ Currently, the model achieves as accuracy of 95% and some optimizations has alre
 ##### Changes that can be made 
 Now, the process of segmentation takes a lot of time to execute and it is quite time consuming. This problem can be solved by using more advanced methods such as [MONAI](https://monai.io/)
 
+## Acknowledgement
+This project is the result of the combined effort of each individual in my team and I would like to thank my team members [Silpa Chandran](https://www.linkedin.com/in/silpa-chandran-747a78182/), [Vidhya L Prathapan](https://www.linkedin.com/in/vidhya-l-prathapan-28282a180/) & [Krishnapriya P](https://www.linkedin.com/in/manschaftg-ap-ab78351b2/) for making it past all the challenges and let this happen.
 
+Finally, and above all, I would like to thank our **mentor [Sleeba Paul](https://sleebapaul.github.io/)**
