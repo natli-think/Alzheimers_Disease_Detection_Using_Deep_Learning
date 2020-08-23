@@ -88,8 +88,11 @@ Currently, the model achieves as accuracy of 95% and some optimizations has alre
 2] Here, we have only taken grey matter, white matter and CSF (Cerebro spinal fluid) into consideration to detect AD. You can use other feautures such as Medial temperal lobe, etc too.
 
 ## Acknowledgement
-This project is the result of the combined effort of each individual in my team and I would like to thank my team members [Silpa Chandran](https://www.linkedin.com/in/silpa-chandran-747a78182/), [Vidhya L Prathapan](https://www.linkedin.com/in/vidhya-l-prathapan-28282a180/) & [Krishnapriya P](https://www.linkedin.com/in/manschaftg-ap-ab78351b2/) for making it past all the challenges and let this happen.
 
-Finally, and above all, I would like to thank our mentor **[Sleeba Paul](https://sleebapaul.github.io/)** whose been always out there as a great pillar and never stepped away from helping us out whenever needed. If not for him, this project wouldn't have made this far and we do owe him a lot! :)<br>
-<br>
-Thank you Sleeba Paul !!   
+#### Collaborators
+1] [Silpa Chandran](https://www.linkedin.com/in/silpa-chandran-747a78182/)<br>
+2] [Vidhya L Prathapan](https://www.linkedin.com/in/vidhya-l-prathapan-28282a180/)<br> 
+3] [Krishnapriya P](https://www.linkedin.com/in/manschaftg-ap-ab78351b2/) 
+
+#### Mentor
+[Sleeba Paul](https://sleebapaul.github.io/)
